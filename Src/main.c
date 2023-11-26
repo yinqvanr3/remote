@@ -6,5 +6,6 @@ int main()
     printf("input one word\n");
     scanf("%c",&temp);
     sayHello();
+    getchar();
     return 0;
 }
